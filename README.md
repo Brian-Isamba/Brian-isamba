@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on Python,Javascript,Django,Devops.
+Building responsive websites using Html, Css and Javascript 
 - - 📫 How to reach me: isahbrian201@gmail.com
