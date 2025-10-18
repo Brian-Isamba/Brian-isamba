@@ -9,7 +9,7 @@ I'm passionate about building reliable infrastructure, automating workflows, and
 ### 🧠 **About Me**
 - 💻 Experienced in **Linux (Ubuntu, CentOS, Debian)** administration  
 - ⚙️ Skilled in **Docker**, **Ansible**, **Jenkins**, **Terraform**, and **Kubernetes**  
-- 🛠️ Experienced with **Zabbix 
+- 🛠️ Experienced with **Zabbix, Cacti, Grafana
 - 🌐 Familiar with **PHP**, **HTML5**, **CSS3**, and **JavaScript** for web projects  
 - 🔒 Advocate for secure, efficient, and automated infrastructure  
 - ☁️ Currently exploring **AWS Cloud** and advanced DevOps pipelines  
@@ -35,7 +35,7 @@ I'm passionate about building reliable infrastructure, automating workflows, and
 
 
 ### 🌍 **Let's Connect**
-- 💼 [LinkedIn](https://www.linkedin.com) *Brian isamba*
+- 💼 [LinkedIn](https://www.linkedin.com) *www.linkedin.com/in/brian-isamba-55484b25a*
 - 📧 **Email:** Isahbrian201@gmail.com
 
 ---
